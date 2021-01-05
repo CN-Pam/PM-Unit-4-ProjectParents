@@ -1,0 +1,50 @@
+img {
+    width: 175px;
+}
+
+.item {
+    margin: 5px;
+    padding: 5px;
+}
+
+.intro {
+    border: 10px groove white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bodega {
+    display: flex;
+    justify-content: space-between;
+    border: 10px ridge #004d00;
+}
+
+.family {
+    display: flex;
+    justify-content: center;
+    border: 10px ridge #ffffcc;
+}
+
+body {
+    color: white;
+    background-image: url("https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/e35/28754398_2062185150726138_6549004233595682816_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=106&_nc_ohc=MtoXEovSCs0AX8NR_Mm&se=7&tp=1&oh=d125a5deb3bd456508e09de8972433cf&oe=600233A8&ig_cache_key=MTczNzEwMDY2NDk5MzkxNTEwMQ%3D%3D.2");
+    cursor: pointer;
+}
+
+h1 {
+    color: red;
+    font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+p {
+    font-family: 'Heebo', sans-serif;
+    background-color: #d9e6f2;
+    color: #000000;
+}
+.parents{
+border: 5px solid white;
+}
